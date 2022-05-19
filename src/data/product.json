@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_EventToken_01.png",
+    "name": "Kỉ Vật MSI",
+    "price": 1
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_Orb.png",
+    "name": "Viên MSI",
+    "price": 5
+  },
+
+  {
+    "id": 3,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_Bag2.png",
+    "name": "Túi MSI",
+    "price": 10
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/LoL_Loot_MSI_Bag_A.png",
+    "name": "Gói MSI Đặc Biệt",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Porcelain2022_Orb_Final.png",
+    "name": "Viên Thanh Hoa",
+    "price": 5
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Firecracker2022_Orb_Final.png",
+    "name": "Viên Pháo Hoa",
+    "price": 5
+  },
+
+  {
+    "id": 7,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Firecracker2022_Token_Final.png",
+    "name": "Kỷ Vật Nguyên Đán",
+    "price": 1
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Porcelain2022_PremiumBag1_Final.png",
+    "name": "Túi Thanh Hoa",
+    "price": 10
+  }
+]
