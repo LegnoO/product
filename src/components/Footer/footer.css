@@ -1,0 +1,36 @@
+.footer-section {
+  overflow: hidden;
+  display: block;
+  border-top: 1px solid black;
+}
+
+.footer-container {
+  width: 100%;
+  max-width: 100%;
+}
+
+.footer-content {
+  background-color: #353535;
+  height: 400px;
+  width: 100%;
+}
+
+.footer-reserved {
+  background-color: #000000de;
+  height: 50px;
+  width: 100%;
+}
+
+.footer-reserved {
+  height: 100%;
+}
+
+.footer-reserved .text > p {
+  padding: 0.25rem;
+  justify-content: center;
+  margin: auto 0;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  opacity: 0.7;
+}

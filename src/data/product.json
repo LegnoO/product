@@ -1,52 +1,68 @@
 [
   {
     "id": 1,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_EventToken_01.png",
-    "name": "Kỉ Vật MSI",
-    "price": 1
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fg%2Fu%2Fguandao.png&w=640&q=75",
+    "detail": "COLOSSEUM",
+    "name": "GUANDAO",
+    "cate_id": 12,
+    "price": 2379000
   },
   {
     "id": 2,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_Orb.png",
-    "name": "Viên MSI",
-    "price": 5
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fs%2Fa%2Fsandstorm.png&w=640&q=75",
+    "detail": "JACKSON",
+    "name": "SANDSTORM",
+    "cate_id": 12,
+    "price": 120
   },
 
   {
     "id": 3,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/Icons_Loot_MSI2022_Bag2.png",
-    "name": "Túi MSI",
-    "price": 10
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fi%2F-%2Fi-275_1.png&w=640&q=75",
+    "detail": "DETROIT",
+    "name": "I-275",
+    "cate_id": 12,
+    "price": 140
   },
   {
     "id": 4,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.9-12.10/LoL_Loot_MSI_Bag_A.png",
-    "name": "Gói MSI Đặc Biệt",
-    "price": 20
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2F8%2Fm%2F8mile-01_1_1.png&w=640&q=75",
+    "detail": "DETROIT",
+    "name": "8 MILE",
+    "cate_id": 12,
+    "price": 200
   },
   {
     "id": 5,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Porcelain2022_Orb_Final.png",
-    "name": "Viên Thanh Hoa",
-    "price": 5
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fu%2Fs%2Fus12-01_1.png&w=640&q=75",
+    "detail": "DETROIT",
+    "name": "US-12",
+    "cate_id": 12,
+    "price": 200
   },
   {
     "id": 6,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Firecracker2022_Orb_Final.png",
-    "name": "Viên Pháo Hoa",
-    "price": 5
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fv%2Fd%2Fvd.sharp.png&w=640&q=75",
+    "detail": "KASHMIR",
+    "name": "SHARP",
+    "cate_id": 12,
+    "price": 200
   },
 
   {
     "id": 7,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Firecracker2022_Token_Final.png",
-    "name": "Kỷ Vật Nguyên Đán",
-    "price": 1
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fb%2Fx%2Fbx.swank.png&w=640&q=75",
+    "detail": "KASHMIR",
+    "name": "SWANK",
+    "cate_id": 12,
+    "price": 200
   },
   {
     "id": 8,
-    "image": "https://cdn.vn.garenanow.com/web/lol-product/Assets/12.2/Icons_Loot_Porcelain2022_PremiumBag1_Final.png",
-    "name": "Túi Thanh Hoa",
-    "price": 10
+    "image": "https://curnonwatch.com/_next/image/?url=https%3A%2F%2Fshop.curnonwatch.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2Fd96eb53c23516f6ca600411b8495131f%2Fw%2Fe%2Fwerner.png&w=640&q=75",
+    "detail": "WEIMAR",
+    "name": "WERNER",
+    "cate_id": 12,
+    "price": 200
   }
 ]

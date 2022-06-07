@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header-section {
+  border-bottom: 1px solid black;
+}
+
+.nav {
+  background-color: #fff;
+  box-shadow: 0 25px 45px rgb(0 0 0 / 5%);
+}
+
+.nav-content {
+  /* background: rgba(255, 255, 255, 0.15); */
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem 0rem;
+}
+
+.justify-content-center {
+  margin: auto 0;
+}
+
+.nav-logo {
+  padding-right: 5rem;
+}
+
+.nav-menu {
+  padding-left: 0 1rem;
+}
+.nav-menu > a {
+  padding: 0 1rem;
+}
+
+.nav-tool {
+}
+
+.content .nav > a {
+  font-size: 20px;
+  padding: 0 1rem;
+}
+
+.nav-icon {
+  display: flex;
+}
+
+.nav-icon .icon-search {
+  color: #000;
+  font-size: 20px;
+  padding: 0.5rem 0.25rem;
+  margin-right: 1rem;
+  border-radius: 50%;
+}
+
+.icon-search:hover {
+  background: linear-gradient(
+    115deg,
+    rgba(0, 0, 0, 0.1),
+    rgba(255, 255, 255, 0.25)
+  );
+  color: rgba(231, 17, 17, 0.842);
+  transition: 0.5s;
+}
+
+.shopping-cart {
+  position: relative;
+}
+
+.shopping-cart .count-cart {
+  position: absolute;
+  right: 18px;
+  top: 2px;
+  background-color: red;
+  color: #fff;
+  border-radius: 22px;
+  padding: 0 4px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  pointer-events: none;
+}
